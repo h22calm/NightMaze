@@ -176,7 +176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f872b7bd1eb6a244aab1b1654fbc06fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  titleScreenPanel: {fileID: 0}
+  titleScreenPanel: {fileID: 797843277}
 --- !u!1 &366322367
 GameObject:
   m_ObjectHideFlags: 0
